@@ -12,11 +12,15 @@ https://gamebanana.com/mods/309789
 
 instructions:
 
-Download PhychEngine from the website. 
-Download Secret Exit with the provided link.
-Unzip the file and bring it into the mod folder within the files of Phych Engine.
-Go to free play and scroll all the way down.
-Enjoy the fun!
+-Download PhychEngine from the website. 
+
+-Download Secret Exit with the provided link.
+
+-Unzip the file and bring it into the mod folder within the files of Phych Engine.
+
+-Go to free play and scroll all the way down.
+
+-Enjoy the fun!
 
 THE SONG MUST BE RESTARTED ONCE TO RUN IT PROPERLY! THERE IS NO FIX FOR THIS!
 
