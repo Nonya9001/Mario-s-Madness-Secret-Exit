@@ -6,11 +6,12 @@ https://www.mediafire.com/file/dgfmeyc23w9jhom/Secret+Exit+-+Copy.zip/file
 
 Requirements:
 
+
 you will need the latest version of PhychEngine, link here:
 
 https://gamebanana.com/mods/309789
 
-instructions:
+Instructions:
 
 -Download PhychEngine from the website. 
 
@@ -21,6 +22,8 @@ instructions:
 -Go to free play and scroll all the way down.
 
 -Enjoy the fun!
+
+Warning:
 
 THE SONG MUST BE RESTARTED ONCE TO RUN IT PROPERLY! THERE IS NO FIX FOR THIS!
 
