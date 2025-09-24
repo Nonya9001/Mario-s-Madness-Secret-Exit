@@ -2,6 +2,8 @@
 the original mod was fine, but the creator did not do the charting properly. I am here, posting it with fixed charting and fixed bugs.
 Download the file here: 
 
+MOD UPDATE VERSION: 1.0.1
+
 fixed #1 (after publication):
 
 -Missing Notes
