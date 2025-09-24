@@ -5,7 +5,9 @@ Download the file here:
 fixed #1 (after publication):
 
 -Missing Notes
+
 -Notes on wrong side
+
 -Notes in wrong place
 
 Download:
