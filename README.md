@@ -1,2 +1,31 @@
 # Mario-s-Madness-Secret-Exit
 the original mod was fine, but the creator did not do the charting properly. I am here, posting it with fixed charting and fixed bugs.
+Download the file here: 
+
+https://www.mediafire.com/file/dgfmeyc23w9jhom/Secret+Exit+-+Copy.zip/file
+
+Requirements:
+
+you will need the latest version of PhychEngine, link here:
+
+https://gamebanana.com/mods/309789
+
+instructions:
+
+Download PhychEngine from the website. 
+Download Secret Exit with the provided link.
+Unzip the file and bring it into the mod folder within the files of Phych Engine.
+Go to free play and scroll all the way down.
+Enjoy the fun!
+
+THE SONG MUST BE RESTARTED ONCE TO RUN IT PROPERLY! THERE IS NO FIX FOR THIS!
+
+If any bugs are found, or you have scene suggestions, or questions in general, join my Discord Server! 
+
+https://discord.gg/X5DpetRCVx
+
+Credits:
+
+Scene creator/Designer/Creator: Raul
+
+Other credits not found. 
