@@ -19,7 +19,7 @@ https://www.mediafire.com/file/u4qdxo48bxg8msu/Secret+Exit+(4).zip/file
 Requirements:
 
 
-you will need the latest version of PhychEngine, link here:
+you will need the latest version of PsychEngine, link here:
 
 https://gamebanana.com/mods/309789
 
