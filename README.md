@@ -2,7 +2,15 @@
 the original mod was fine, but the creator did not do the charting properly. I am here, posting it with fixed charting and fixed bugs.
 Download the file here: 
 
-https://www.mediafire.com/file/dgfmeyc23w9jhom/Secret+Exit+-+Copy.zip/file
+fixed #1 (after publication):
+
+-Missing Notes
+-Notes on wrong side
+-Notes in wrong place
+
+Download:
+
+https://www.mediafire.com/file/u4qdxo48bxg8msu/Secret+Exit+(4).zip/file
 
 Requirements:
 
