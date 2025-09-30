@@ -39,7 +39,7 @@ Warning:
 
 THE SONG MUST BE RESTARTED ONCE TO RUN IT PROPERLY! THERE IS NO FIX FOR THIS!
 
-If any bugs are found, or you have scene suggestions, or questions in general, join my Discord Server! 
+If any bugs are found, or you have scene suggestions, or questions in general, or need help, join my Discord Server! 
 
 https://discord.gg/X5DpetRCVx
 
