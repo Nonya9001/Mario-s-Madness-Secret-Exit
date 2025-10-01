@@ -2,11 +2,9 @@
 the original mod was fine, but the creator did not do the charting properly. I am here, posting it with fixed charting and fixed bugs.
 Download the file here: 
 
-MOD UPDATE VERSION: 1.0.1
+MOD UPDATE VERSION: 1.0.2
 
-fixed #1 (after publication):
-
--Missing Notes
+fixed #2 (after publication):
 
 -Notes on wrong side
 
@@ -14,7 +12,7 @@ fixed #1 (after publication):
 
 Download:
 
-https://www.mediafire.com/file/u4qdxo48bxg8msu/Secret+Exit+(4).zip/file
+https://www.mediafire.com/file/5yj3nx1cvebounk/Secret+Exit+-+Copy+(2).zip/file
 
 Requirements:
 
