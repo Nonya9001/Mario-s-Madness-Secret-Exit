@@ -2,20 +2,19 @@
 the original mod was fine, but the creator did not do the charting properly. I am here, posting it with fixed charting and fixed bugs.
 Download the file here: 
 
-MOD UPDATE VERSION: 1.0.2
+MOD UPDATE VERSION: 1.0.3
 
-fixed #2 (after publication):
+fixed #3 (after publication):
 
--Notes on wrong side
+-Missing Notes
 
--Notes in wrong place
+-Notes wrong length
 
 Download:
 
-https://www.mediafire.com/file/5yj3nx1cvebounk/Secret+Exit+-+Copy+(2).zip/file
+https://www.mediafire.com/file/5qaiqafaqzcb8y0/Secret+Exit.zip/file
 
 Requirements:
-
 
 you will need the latest version of PsychEngine, link here:
 
@@ -35,7 +34,7 @@ Instructions:
 
 Warning:
 
-THE SONG MUST BE RESTARTED ONCE TO RUN IT PROPERLY! THERE IS NO FIX FOR THIS!
+THE SONG MUST BE RESTARTED ONCE TO RUN IT PROPERLY! THERE IS NO FIX FOR THIS! (yet, atleast.)
 
 If any bugs are found, or you have scene suggestions, or questions in general, or need help, join my Discord Server! 
 
